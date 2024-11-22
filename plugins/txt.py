@@ -1,6 +1,6 @@
 ''' 
-modified by t.me/UltroidxTeam
+modified by t.me/DMWITHGOKUL
 
-Support t.me/ultroidofficial_chat
+Support t.me/CINEMACCBOTUPDATES
 
 '''
